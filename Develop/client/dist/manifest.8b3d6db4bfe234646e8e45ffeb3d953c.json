@@ -1,0 +1,8 @@
+{
+  "name": "Text Editor",
+  "short_name": "Text Editor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Create code online or off"
+}
